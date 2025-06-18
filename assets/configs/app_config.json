@@ -1,0 +1,20 @@
+{
+    "theme": {
+        "default": "light",
+        "options": [
+            "light",
+            "dark"
+        ]
+    },
+    "language": {
+        "default": "ja",
+        "options": [
+            "en",
+            "ja"
+        ]
+    },
+    "userPreferences": {
+        "theme": "light",
+        "language": "ja"
+    }
+}

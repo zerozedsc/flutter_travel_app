@@ -1,0 +1,125 @@
+{
+    "travel_preferences": "Travel Preferences",
+    "purpose_of_travel": "Purpose of Travel",
+    "purpose_question": "Why are you going to travel inside Japan?",
+    "purpose_examples": "(e.g., leisure, business, cultural exploration, family trip, honeymoon, adventure)",
+    "preferred_travel_style": "Preferred Travel Style",
+    "style_question_urban": "Do you prefer urban experiences, nature-focused destinations, or a mix of both?",
+    "style_question_itinerary": "Are you looking for a relaxed itinerary or an action-packed one?",
+    "style_question_travel_type": "Do you enjoy group tours, solo travel, or self-guided trips?",
+    "time_and_budget": "Time and Budget",
+    "duration_of_travel": "Duration of Travel",
+    "duration_question": "How many days will you spend in Japan?",
+    "travel_budget": "Travel Budget",
+    "budget_question": "What is your approximate daily budget?",
+    "budget_examples": "(low, medium, high)",
+    "location_preferences": "Location Preferences",
+    "specific_locations": "Specific Locations or Regions",
+    "specific_locations_question": "Are there specific prefectures or cities you want to visit?",
+    "specific_locations_examples": "(e.g., Tokyo, Kyoto, Hokkaido, Okinawa)",
+    "locations_to_avoid": "Are there locations you'd like to avoid?",
+    "geographical_interests": "Geographical Interests",
+    "geography_question": "Do you prefer northern Japan (e.g., Hokkaido) or southern Japan (e.g., Kyushu)?",
+    "activities_and_interests": "Activities and Interests",
+    "cultural_interests": "Cultural Interests",
+    "cultural_question": "Are you interested in temples, shrines, traditional tea ceremonies, festivals, or samurai history?",
+    "outdoor_activities": "Outdoor Activities",
+    "outdoor_question": "Do you enjoy hiking, skiing, hot springs, or exploring nature?",
+    "national_parks_question": "Do you want to visit national parks?",
+    "urban_attractions": "Urban Attractions",
+    "urban_question": "Do you enjoy shopping, nightlife, themed cafes, or modern cityscapes?",
+    "food_preferences": "Food Preferences",
+    "food_question": "What type of Japanese cuisine do you prefer?",
+    "food_examples": "(e.g., sushi, ramen, street food, wagashi sweets)",
+    "dietary_restrictions_question": "Do you have any dietary restrictions?",
+    "pop_culture_interests": "Pop Culture Interests",
+    "pop_culture_question": "Are you a fan of anime, manga, J-pop, or Japanese gaming culture?",
+    "theme_park_question": "Would you like to visit themed parks or studios (e.g., Studio Ghibli Museum)?",
+    "seasonal_preferences": "Seasonal Preferences",
+    "seasonal_question": "Are you visiting during a specific season?",
+    "seasonal_experiences_question": "Do you want to experience seasonal attractions like cherry blossoms, autumn leaves, or snow festivals?",
+    "special_interests": "Special Interests",
+    "special_interests_question": "Are you interested in unique experiences like rural villages, historical towns, castles, or UNESCO World Heritage Sites?",
+    "cultural_workshops_question": "Would you like to attend cultural workshops or classes (e.g., cooking, calligraphy)?",
+    "explore_more": "Explore More",
+    "today_prefecture": "Today's Prefecture",
+    "spot_place_recommend": "Spot Place Recommendation",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "take_travel_survey": "Take Travel Survey",
+    "travel_survey": "Travel Survey",
+    "recommended_prefecture": "Recommended Prefecture",
+    "other_information": "Other Information",
+    "coming_soon": "Coming Soon",
+    "excting_travel_coming": "Exciting travel features are on the way",
+    "go_back": "Go Back",
+    "all": "All",
+    "spot_place": "Spot Place",
+    "posts": "Posts",
+    "event": "Event",
+    "search_for_a_place": "Search for a place",
+    "trip_planner": "Trip Planner",
+    "edit": "Edit",
+    "favorite": "Favorite",
+    "recent": "Recent",
+    "add_to_plan": "Add to Plan",
+    "register_account": "Register Account",
+    "TRAVEL_QUESTIONS": {
+        "1": {
+            "q": "What type of destination do you prefer?",
+            "a": [
+                "Mountains",
+                "Beaches",
+                "Cities",
+                "Countryside"
+            ]
+        },
+        "2": {
+            "q": "What is your favorite activity?",
+            "a": [
+                "Sightseeing",
+                "Shopping",
+                "Hiking",
+                "Relaxing"
+            ]
+        },
+        "3": {
+            "q": "What is your preferred travel season?",
+            "a": [
+                "Spring",
+                "Summer",
+                "Autumn",
+                "Winter"
+            ]
+        },
+        "4": {
+            "q": "What is your travel budget?",
+            "a": [
+                "Low",
+                "Medium",
+                "High"
+            ]
+        },
+        "5": {
+            "q": "Who do you usually travel with?",
+            "a": [
+                "Alone",
+                "Friends",
+                "Family",
+                "Partner"
+            ]
+        },
+        "6": {
+            "q": "What type of food do you prefer?",
+            "a": [
+                "Japanese Cuisine",
+                "Street Food",
+                "Fine Dining",
+                "Vegetarian Options"
+            ]
+        }
+    }
+}
