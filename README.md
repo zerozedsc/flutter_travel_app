@@ -4,12 +4,12 @@ A comprehensive travel application built with Flutter as part of the 創造も�
 
 ## 📱 Features
 
-- **User Authentication** - Secure login system
+- **User Authentication** - Secure login system [Coming soon]
 - **Home Dashboard** - Central hub for travel information
-- **Travel Planner** - Plan and organize your trips
+- **Travel Planner** - Plan and organise your trips [Coming soon]
 - **Recommendations** - Discover new destinations and activities
 - **Search Functionality** - Find specific locations, hotels, and attractions
-- **Settings Management** - Customize your app experience
+- **Settings Management** - Customise your app experience [Coming soon]
 - **Offline Database** - Local data storage for seamless experience
 
 ## 📱 App Prototype & Screenshots
